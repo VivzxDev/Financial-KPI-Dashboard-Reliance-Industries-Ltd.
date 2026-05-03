@@ -34,3 +34,13 @@ Financial Statement Interpretation
 
 🛠️ Tools:
 Excel | Power BI
+
+
+
+
+<img width="1170" height="664" alt="REALI" src="https://github.com/user-attachments/assets/6521872c-bf5d-41ca-9470-cfbb80b453e3" />
+
+
+
+
+
